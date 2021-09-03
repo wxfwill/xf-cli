@@ -1,0 +1,30 @@
+{
+  "name": "xf-cli",
+  "version": "1.0.0",
+  "description": "simple react cli",
+  "bin": {
+    "xf": "./bin/cli.js"
+  },
+  "main": "index.js",
+  "author": "will",
+  "repository": "https://github.com/wxfwill/xf-cli.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xf-cli",
+    "xf",
+    "脚手架"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2",
+    "commander": "^8.1.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.1.2",
+    "ora": "5.4.0"
+  }
+}
