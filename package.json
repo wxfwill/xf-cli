@@ -1,5 +1,5 @@
 {
-  "name": "xf-cli",
+  "name": "wxf-cli",
   "version": "1.0.0",
   "description": "simple react cli",
   "bin": {
