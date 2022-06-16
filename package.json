@@ -1,9 +1,9 @@
 {
-  "name": "wxf-cli",
-  "version": "1.0.3",
+  "name": "hyzs-cli",
+  "version": "1.0.4",
   "description": "simple react cli",
   "bin": {
-    "xf": "./bin/cli.js"
+    "hy": "./bin/cli.js"
   },
   "main": "index.js",
   "author": "will",
@@ -12,8 +12,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "xf-cli",
-    "xf",
+    "hyzs-cli",
+    "hy",
     "脚手架"
   ],
   "license": "MIT",
